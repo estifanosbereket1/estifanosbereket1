@@ -104,15 +104,9 @@ A TypeScript SDK that simplifies integrating AfroMessage into Node.js applicatio
 
 ---
 
-# 📈 GitHub Stats
+## 📈 Contribution Graph
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=estifanosbereket1&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estifanosbereket1&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+[![Estifanos' github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=estifanosbereket1&theme=github-compact&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
@@ -131,10 +125,4 @@ A TypeScript SDK that simplifies integrating AfroMessage into Node.js applicatio
 * 🌐 Portfolio: https://porfolio-estifanos.vercel.app/
 * 💻 GitHub: https://github.com/estifanosbereket1
 
----
 
-<p align="center">
-
-<i>"Great software isn't just built — it's carefully designed."</i>
-
-</p>
