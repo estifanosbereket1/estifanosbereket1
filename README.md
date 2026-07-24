@@ -39,7 +39,7 @@ Currently exploring **Rust** while continuing to build with **TypeScript**, **Py
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,supabase"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,nodejs,nestjs,postgres,prisma"/>
 
 </p>
 
