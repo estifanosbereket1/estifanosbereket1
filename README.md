@@ -1,16 +1,140 @@
-## Hi there 👋
+# Hi there, I'm Estifanos 👋
 
-<!--
-**estifanosbereket1/estifanosbereket1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Software Engineer • Full Stack Engineer • Open Source Enthusiast</b>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+Building developer tools, scalable backend systems, and polished applications that people enjoy using.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://porfolio-estifanos.vercel.app/">Portfolio</a> •
+  <a href="https://github.com/estifanosbereket1">GitHub</a>
+</p>
+
+---
+
+## 🚀 About Me
+
+I'm a Software Engineer from Addis Ababa, Ethiopia who enjoys building software from idea to production.
+
+I love designing developer tools, building modern full-stack applications, and creating clean APIs that are enjoyable to work with.
+
+Currently exploring **Rust** while continuing to build with **TypeScript**, **Python**, **Dart**, and **Go**.
+
+---
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=ts,python,dart,go,rust,java"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,postgres,prisma,supabase"/>
+
+</p>
+
+### Frontend & Mobile
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,tailwind"/>
+
+</p>
+
+### DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel"/>
+
+</p>
+
+---
+
+# 🌟 Featured Projects
+
+## 📋 ClipVault
+
+A powerful clipboard manager for Linux featuring:
+
+* Global shortcuts
+* Clipboard history
+* QR sharing
+* LAN synchronization
+* Code-aware clipboard detection
+* Beautiful desktop experience
+
+---
+
+## 🌍 AfroMessage SDK
+
+A TypeScript SDK that simplifies integrating AfroMessage into Node.js applications with a clean and developer-friendly API.
+
+---
+
+# 📚 Currently Learning
+
+* 🦀 Rust
+* Distributed systems
+* Systems programming
+* Performance optimization
+
+---
+
+# 💡 I Enjoy Working On
+
+* Developer Tools
+* Backend Architecture
+* APIs
+* Mobile Applications
+* Desktop Applications
+* Open Source
+* Automation
+* Full Stack Products
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=estifanosbereket1&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=estifanosbereket1&layout=compact&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=estifanosbereket1&theme=transparent&hide_border=true"/>
+
+</p>
+
+---
+
+# 📫 Let's Connect
+
+* 🌐 Portfolio: https://porfolio-estifanos.vercel.app/
+* 💻 GitHub: https://github.com/estifanosbereket1
+
+---
+
+<p align="center">
+
+<i>"Great software isn't just built — it's carefully designed."</i>
+
+</p>
